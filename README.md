@@ -1,4 +1,4 @@
-# 100-days-of-codes
+# 100-days-of-code
 
 Welcome to my coding journey! I am documenting my daily progress as I master Python and Computer Science fundamentals.
 
