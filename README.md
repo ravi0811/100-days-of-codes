@@ -8,6 +8,8 @@ Welcome to my coding journey! I am documenting my daily progress as I master Pyt
 * **Day 3:** Treasure Island & Pizza Billing System
 * **Day 4:** Rock Paper Scissors Game
 * **Day 5:** Password Generator
+* **Day 6:** No project!
+* **Day 7:** Game (Hangman)
   
 ## My Goals
 - Master Python.
