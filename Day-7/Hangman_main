@@ -1,0 +1,60 @@
+import random 
+# Import assets from your local files
+from Day7ascii import logo,stages
+from Day7words import word_list
+
+# Show the game title/logo at the start
+print(logo)
+
+# Initialize the game variables
+lives = 6
+chosen_word = random.choice(word_list)
+
+# Create the initial blank line based on word length
+placeholder= ""
+for letter in chosen_word:
+    placeholder += " _ "
+print(placeholder)
+
+# List to keep track of letters the player has already found
+correct_letters = []
+game_over = False
+
+
+# Main Game Loop
+while not game_over:
+    # Get player input and force it to lowercase
+    user_guess = input("Enter the letter you guess: \n").lower()
+    
+    # Check if the guess is wrong
+    if user_guess not in chosen_word:
+        lives -= 1
+    # Build the current state of the word to display
+    display = ""
+    # Print the ASCII art matching the remaining lives
+    print(stages[lives])
+
+    # Iterate through the chosen word to reveal letters
+    for letter in chosen_word:
+        if letter == user_guess:
+            # Current guess matches - show the letter and save to memory
+            display += user_guess
+            correct_letters.append(letter)
+        elif letter in correct_letters:
+            # Letter was guessed in a previous turn - show it
+            display += letter
+        else:
+            # Letter hasn't been guessed yet - keep it hidden
+            display += " _ "
+            
+
+    print(display)
+    # Check Win Condition: No more blanks left in the display
+    if "_" not in display:
+        print("You win.")
+        game_over = True
+    # Check Loss Condition: Player ran out of lives
+    if lives == 0:
+        print("Out of lives, you lose")
+        print(f"The word was: {chosen_word}")
+        game_over = True
