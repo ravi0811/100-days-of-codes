@@ -1,0 +1,39 @@
+alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+
+def encrypt(orignal_text, shift_amount):
+    new_shifted_text = ""
+    for letter in orignal_text:
+        if letter in alphabet: 
+            letter_index = (alphabet.index(letter) + shift_amount) % 26
+            new_shifted_text += alphabet[letter_index]
+        else:
+            new_shifted_text += letter 
+    return new_shifted_text
+
+def decrypt(orignal_text, shift_amount):
+    new_shifted_text = ""
+    for letter in orignal_text:
+        if letter in alphabet:
+            letter_index = (alphabet.index(letter) - shift_amount) % 26
+            new_shifted_text += alphabet[letter_index]
+        else:
+            new_shifted_text += letter
+    return new_shifted_text
+
+# --- Main Program Loop ---
+exit_program = False
+while not exit_program:
+    direction = input("Type 'encode' to encrypt, 'decode' to decrypt, or 'exit':\n").lower()
+    
+    if direction == "exit":
+        print("Thank you, goodbye!")
+        exit_program = True
+        break
+    
+    text = input("Type your message:\n").lower()
+    shift = int(input("Type the shift number:\n"))
+
+    if direction == "encode":
+        print(f"Encoded result: {encrypt(text, shift)}")
+    elif direction == "decode":
+        print(f"Decoded result: {decrypt(text, shift)}")
