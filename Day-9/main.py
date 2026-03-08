@@ -13,7 +13,7 @@ while not bidding_finished:
     bid = int(input ("What is your bid?: \n"))
 
     bidders_info[name] = bid
-    print(bidders_info)
+    
     valid_input = False
     while not valid_input:
         
