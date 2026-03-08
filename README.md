@@ -11,7 +11,7 @@ Welcome to my coding journey! I am documenting my daily progress as I master Pyt
 * **Day 6:** No project!
 * **Day 7:** Game (Hangman)
 * **Day 8:** Caesar Cipher
-* **Day 8:** Secret Bidding System
+* **Day 9:** Secret Bidding System
   
 ## My Goals
 - Master Python.
