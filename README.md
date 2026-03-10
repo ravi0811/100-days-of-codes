@@ -13,6 +13,7 @@ Welcome to my coding journey! I am documenting my daily progress as I master Pyt
 * **Day 8:** Caesar Cipher
 * **Day 9:** Secret Bidding System
 * **Day 10:** Calculator Program
+* **Day 11:** Blackjack
   
 ## My Goals
 - Master Python.
