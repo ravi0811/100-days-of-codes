@@ -15,6 +15,7 @@ Welcome to my coding journey! I am documenting my daily progress as I master Pyt
 * **Day 10:** Calculator Program
 * **Day 11:** Blackjack
 * **Day 12:** Number guessing game
+* **Day 13:** Debugging
   
 ## My Goals
 - Master Python.
