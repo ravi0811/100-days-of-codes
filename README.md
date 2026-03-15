@@ -16,6 +16,7 @@ Welcome to my coding journey! I am documenting my daily progress as I master Pyt
 * **Day 11:** Blackjack
 * **Day 12:** Number guessing game
 * **Day 13:** Debugging
+* **Day 13:** Higher Lower Game
   
 ## My Goals
 - Master Python.
