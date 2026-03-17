@@ -17,6 +17,7 @@ Welcome to my coding journey! I am documenting my daily progress as I master Pyt
 * **Day 12:** Number guessing game
 * **Day 13:** Debugging
 * **Day 14:** Higher Lower Game
+* **Day 15:** Coffee Machine
   
 ## My Goals
 - Master Python.
