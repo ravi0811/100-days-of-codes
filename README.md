@@ -18,6 +18,7 @@ Welcome to my coding journey! I am documenting my daily progress as I master Pyt
 * **Day 13:** Debugging
 * **Day 14:** Higher Lower Game
 * **Day 15:** Coffee Machine
+* **Day 16:** Coffee Machine (Rebuilt with OOP) 🏗️ - Learned Classes, Objects, and Modular Coding.
   
 ## My Goals
 - Master Python.
