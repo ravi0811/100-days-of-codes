@@ -20,6 +20,7 @@ Welcome to my coding journey! I am documenting my daily progress as I master Pyt
 * **Day 15:** Coffee Machine
 * **Day 16:** Coffee Machine (Rebuilt with OOP)
 * **Day 17:** The Quiz Game
+* **Day 18:** Hirst Painting & GUI Basics (Turtle Graphics, Colorgram, and Intro to Tkinter) 
   
 ## My Goals
 - Master Python.
