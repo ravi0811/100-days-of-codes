@@ -24,6 +24,7 @@ Welcome to my coding journey! I am documenting my daily progress as I master Pyt
 * **Day 19:** Turtle Race Game (Instances, Object States & Coordinate Systems)
 * **Day 20:** Snake Game Part 1 (Snake Body Creation & Movement Logic)
 * **Day 21:** Snake Game (Full Completion)- Implemented Inheritance, Collision Detection, and Multi-file Modular Design.
+* **Day 22:** Pong Game (Ball Physics, Collision Detection & Score Tracking)
   
 ## My Goals
 - Master Python.
