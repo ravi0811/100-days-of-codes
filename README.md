@@ -26,7 +26,8 @@ Welcome to my coding journey! I am documenting my daily progress as I master Pyt
 * **Day 21:** Snake Game (Full Completion)- Implemented Inheritance, Collision Detection, and Multi-file Modular Design.
 * **Day 22:** Pong Game (Ball Physics, Collision Detection & Score Tracking)
 * **Day 23:** Turtle Crossing Capstone (Final OOP Game) - Advanced Class Interactions & Speed Scaling.
-* **Day 24:** Mail Merge Project (File I/O, Paths, and Automation) 
+* **Day 24:** Mail Merge Project (File I/O, Paths, and Automation)
+* **Day 25:** Working with CSV Data and the Pandas Library (Squirrel Census Analysis)
 
 
 ## My Goals
