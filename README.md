@@ -28,6 +28,8 @@ Welcome to my coding journey! I am documenting my daily progress as I master Pyt
 * **Day 23:** Turtle Crossing Capstone (Final OOP Game) - Advanced Class Interactions & Speed Scaling.
 * **Day 24:** Mail Merge Project (File I/O, Paths, and Automation)
 * **Day 25:** Working with CSV Data and the Pandas Library (Squirrel Census Analysis)
+* **Day 26:** List & Dictionary Comprehension (NATO Alphabet Project)
+* **Day 27:** GUI Development with Tkinter (Mile to Km Converter Project)
 
 
 ## My Goals
