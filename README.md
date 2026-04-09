@@ -30,9 +30,10 @@ Welcome to my coding journey! I am documenting my daily progress as I master Pyt
 * **Day 25:** Working with CSV Data and the Pandas Library (Squirrel Census Analysis)
 * **Day 26:** List & Dictionary Comprehension (NATO Alphabet Project)
 * **Day 27:** GUI Development with Tkinter (Mile to Km Converter Project)
-* **Day 28:** Pomodoro Productivity App (Canvas Widget, Timers, and State Management) 🍅⏲️
+* **Day 28:** Pomodoro Productivity App (Canvas Widget, Timers, and State Management) 
 * **Day 29:** Password Manager GUI App (File I/O, Messagebox, and Password Generation Logic)
-* **Day 30:** Errors, Exceptions, and JSON Data (Upgraded Password Manager with Search) 🔍📂
+* **Day 30:** Errors, Exceptions, and JSON Data (Upgraded Password Manager with Search) 
+* **Day 31:** Flash Card App Capstone  (Advanced GUI, Pandas Integration, and Timing Logic)
 
 
 ## My Goals
