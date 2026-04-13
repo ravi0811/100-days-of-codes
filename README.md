@@ -37,6 +37,7 @@ Welcome to my coding journey! I am documenting my daily progress as I master Pyt
 * **Day 32:** No Project
 * **Day 33:** Intro to APIs & The ISS Overhead Notifier (Working with `requests` and JSON)
 * **Day 34:** Quizzler App (API Integration, GUI Feedback, and Python Type Hinting)
+* **Day 35:** API Authentication & SMS Alerts (Environment Variables, Twilio API, and Weather Data Slicing)
 
 
 ## My Goals
